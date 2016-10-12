@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ThangActivity"></activity>
+        <activity android:name=".ThangActivity" />
+        <activity android:name=".KenActivity"></activity>
     </application>
 
 </manifest>
